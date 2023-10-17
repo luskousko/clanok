@@ -6,7 +6,19 @@
 \date{October 2023}
 
 \begin{document}
-
+\begin{figure}
+  \centering
+  \begin{minipage}{.5\textwidth}
+    \centering
+    \includegraphics[width=0.8\linewidth]{obrazok1.png}
+    \caption{Caption for Image 1}
+  \end{minipage}%
+  \begin{minipage}{.5\textwidth}
+    \centering
+    \includegraphics[width=0.8\linewidth]{obrazok1.png}
+    \caption{Caption for Image 2}
+  \end{minipage}
+\end{figure}
 \maketitle
 
 
