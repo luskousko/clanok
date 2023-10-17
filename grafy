@@ -21,6 +21,17 @@
 \end{figure}
 \maketitle
 
-
+\begin{figure}
+  \begin{minipage}{0.5\textwidth} % První minipage s obrázkem
+    \centering
+    \includegraphics[width=\linewidth]{obr1.png}
+    \caption{Obrázek 1}
+  \end{minipage}
+  \begin{minipage}{0.5\textwidth} % Druhý minipage s obrázkem
+    \centering
+    \includegraphics[width=\linewidth]{obr2.png}
+    \caption{Obrázek 2}
+  \end{minipage}
+\end{figure}
 
 \end{document}
