@@ -35,4 +35,12 @@
   \end{minipage}
 \end{figure}
 
+%filipov comit
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.5\textwidth]{pokus.png}
+    \caption{Example Image}
+    \label{delenie informacii}
+\end{figure}
+
 \end{document}
