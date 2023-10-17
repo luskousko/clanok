@@ -1,0 +1,14 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Grafy}
+\author{nas repo}
+\date{October 2023}
+
+\begin{document}
+
+\maketitle
+
+
+
+\end{document}
